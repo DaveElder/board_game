@@ -1,0 +1,19 @@
+input:invalid {
+  border: 2px solid orange;
+}
+
+input:valid {
+  border: 2px solid green;
+}
+
+h1 { 
+color: red;
+text-align: center;
+background-color: lightblue;
+
+
+}
+
+body{
+background-color: lightblue;
+}
